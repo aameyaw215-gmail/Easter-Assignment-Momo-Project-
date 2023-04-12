@@ -35,7 +35,7 @@ int main(){
     cout<<"  Select Network\n";
     cin>>B;
     if(B==1)
-    {cout<<" Enter Momo Number\n";
+    {cout<<" Enter Recipients Momo Number\n";
     cin>>num1;
     cout<<"Confirm number\n";
     cin>>num2;
@@ -46,7 +46,7 @@ int main(){
 	}
     else if(B==2)
     {cout<<" Choose Network by entering Number\n";
-    cout<<"Enter Number\n";
+    cout<<"Enter Recipients Number\n";
     cin>>num1;
     cout<<"confirm Number\n";
     cin>>num1;
