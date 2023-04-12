@@ -12,7 +12,8 @@ int main(){
 	{
     cout<<" Incorrect pin; 2nd attempt\n";
     cin>>pin;}
-    if(pin!=0000){
+    if(pin!=0000)
+{
 	cout<<" Incorrect pin; 3rd attempt\n";
 	cin>>pin;}
 	if(pin!=0000){
